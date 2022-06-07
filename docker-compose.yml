@@ -1,0 +1,3 @@
+# Gib hier deine Compose-Datei ab welche
+# ohne dem `build`-Keyword und nur mit `image`
+# auskommt.
